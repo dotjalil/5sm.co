@@ -1,0 +1,2294 @@
+[
+    {
+        "BrandID": 1,
+        "BrandName": "Noon",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/d4421b5e-f6e1-4efe-b038-e1573dcaa745/"
+    },
+    {
+        "BrandID": 2,
+        "BrandName": "Amazon",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/65f2977a-c6c8-41f5-b04e-a28af1e2b7d0/"
+    },
+    {
+        "BrandID": 3,
+        "BrandName": "Namshi",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/a986d618-c33f-4010-be20-ba60be3c7a46/"
+    },
+    {
+        "BrandID": 4,
+        "BrandName": "Farfetch",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/d8e95736-f68b-49e7-840f-2462211a2085/"
+    },
+    {
+        "BrandID": 5,
+        "BrandName": "FirstCry",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/ed86c535-6a7e-49bd-8626-02e4f4f0dbab/"
+    },
+    {
+        "BrandID": 6,
+        "BrandName": "iHerb",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/7a02232c-36ed-4b0e-a6d2-bd1b0ef5fdc9/"
+    },
+    {
+        "BrandID": 7,
+        "BrandName": "AliExpress",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/a6f870f6-a93b-4ead-9457-7bbc679880f3/"
+    },
+    {
+        "BrandID": 8,
+        "BrandName": "Ontime",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/32cc942f-9c75-4e89-aceb-e24ac78d4a2d/"
+    },
+    {
+        "BrandID": 9,
+        "BrandName": "Max Fashion",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/e3514454-2f4e-42c1-822b-4345d6a58b7d/"
+    },
+    {
+        "BrandID": 10,
+        "BrandName": "West Elm",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/af6b011f-3366-4c97-b82d-3d64f0f2fd86/"
+    },
+    {
+        "BrandID": 11,
+        "BrandName": "H&M",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/f2a9a348-a7cd-47d8-a483-40bd9666c581/"
+    },
+    {
+        "BrandID": 12,
+        "BrandName": "6th Street",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/36d8739d-b0e5-4278-893a-e3dcd27df3f1/"
+    },
+    {
+        "BrandID": 13,
+        "BrandName": "Ounass",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/f33a6bdb-7cb5-4fe5-b305-87a1b9b88779/"
+    },
+    {
+        "BrandID": 14,
+        "BrandName": "Citruss TV",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/75157508-76b6-4d55-abbf-cbee3f8cbc86/"
+    },
+    {
+        "BrandID": 15,
+        "BrandName": "Bath and Body Works",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/435ec2cd-a45b-490d-882e-ef0a6c21afad/"
+    },
+    {
+        "BrandID": 16,
+        "BrandName": "VogaCloset",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/8c5a1c78-8fba-4c07-b26d-7aab05dbe1ef/"
+    },
+    {
+        "BrandID": 17,
+        "BrandName": "Mothercare",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/4d6948a1-2b51-42bc-b700-8feb707a16a9/"
+    },
+    {
+        "BrandID": 18,
+        "BrandName": "Pottery Barn Kids",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/32f636e1-edfc-4ca0-bb43-d7456cff3279/"
+    },
+    {
+        "BrandID": 19,
+        "BrandName": "American Eagle",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/55e0e763-dd8e-4e2a-9273-e506536dca60/"
+    },
+    {
+        "BrandID": 20,
+        "BrandName": "Childrensalon",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/c991f8e3-57f1-4eab-819b-c145be82383f/"
+    },
+    {
+        "BrandID": 21,
+        "BrandName": "The Outnet",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/455dac0c-a945-4f8a-8228-ef5c07437b6f/"
+    },
+    {
+        "BrandID": 22,
+        "BrandName": "Homzmart",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/31cdbbbf-a45b-47c6-ac8d-f28eb7ca8399/"
+    },
+    {
+        "BrandID": 23,
+        "BrandName": "SIVVI",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/e1ca088b-857e-425d-a2d0-c8fce8969ef6/"
+    },
+    {
+        "BrandID": 24,
+        "BrandName": "Pottery Barn",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/212deb22-a88a-4243-a794-fb354aa49ecb/"
+    },
+    {
+        "BrandID": 25,
+        "BrandName": "Bloomingdale's",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 26,
+        "BrandName": "The Body Shop",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/08fb1859-5448-4021-b587-fcf3db3bdbd3/"
+    },
+    {
+        "BrandID": 27,
+        "BrandName": "Mamas and Papas",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/95acde29-78a6-402f-a2db-b5ea859ffceb/"
+    },
+    {
+        "BrandID": 28,
+        "BrandName": "Modanisa",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/c70f85b0-5eb2-485c-8ef2-afec951bdc6e/"
+    },
+    {
+        "BrandID": 29,
+        "BrandName": "Gap",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/450a82c1-40f4-46ea-bed0-24250b2ae352/"
+    },
+    {
+        "BrandID": 30,
+        "BrandName": "Lacoste",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/ada0e0a0-1331-4cf1-ba4d-46f141eefd2a/"
+    },
+    {
+        "BrandID": 31,
+        "BrandName": "Rina Fashion",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/048cc9a1-54fd-4c51-b486-9858bd20b5a3/"
+    },
+    {
+        "BrandID": 32,
+        "BrandName": "PatPat",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/2f83a29f-c234-4ff9-8faa-38d4586784a9/"
+    },
+    {
+        "BrandID": 33,
+        "BrandName": "Tommy Hilfiger",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/76c80147-cb8c-4562-b909-d10a4cf8cc72/"
+    },
+    {
+        "BrandID": 34,
+        "BrandName": "Booking",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/55d612d7-4bd8-4bde-801e-3cc301542ef5/"
+    },
+    {
+        "BrandID": 35,
+        "BrandName": "Swarovski",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/6bd13024-674e-4763-9978-fff4b56af2b8/"
+    },
+    {
+        "BrandID": 36,
+        "BrandName": "Eyewa",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/56c453c1-30d3-46b3-a0a7-bdd9997f9f55/"
+    },
+    {
+        "BrandID": 37,
+        "BrandName": "Early Learning Centre",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/8ec809f1-3c44-4a9c-b22d-8c421a9f214a/"
+    },
+    {
+        "BrandID": 38,
+        "BrandName": "Nayomi",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/0e4b6c6a-4749-45b7-bf98-0d9993c5ffe2/"
+    },
+    {
+        "BrandID": 39,
+        "BrandName": "Chicy",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/17414bdb-4e72-4f50-a4c2-eb047faed171/"
+    },
+    {
+        "BrandID": 40,
+        "BrandName": "Alharam Plaza",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/f068a50e-145f-4b31-a680-902e6f6b5206/"
+    },
+    {
+        "BrandID": 41,
+        "BrandName": "Home Box",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/4d7023ca-310a-482a-91d3-fb729e29570a/"
+    },
+    {
+        "BrandID": 42,
+        "BrandName": "UBER KSA",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 43,
+        "BrandName": "Haraer",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/5243df84-d8e8-41e1-916f-0c58e176c88a/"
+    },
+    {
+        "BrandID": 44,
+        "BrandName": "Daanah",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/56f23013-8b55-4175-9f5d-3cb6f7aa2e2a/"
+    },
+    {
+        "BrandID": 45,
+        "BrandName": "Mr Mandoob",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/4263d8d1-1e00-478b-bbe6-ccff2e1b3ed9/"
+    },
+    {
+        "BrandID": 46,
+        "BrandName": "ToYou",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/565ba22f-3692-4bbd-8903-840e20c17aeb/"
+    },
+    {
+        "BrandID": 47,
+        "BrandName": "Sonbol",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/6383ede9-8459-43b2-9f24-a6a32ac6c640/"
+    },
+    {
+        "BrandID": 48,
+        "BrandName": "Jar Oud",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 49,
+        "BrandName": "Huawei",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/7b18bcc9-4d84-409e-8a3a-a53ea0cae0b2/"
+    },
+    {
+        "BrandID": 50,
+        "BrandName": "Shgardi",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/9d694996-9a29-413d-82ca-6928ca0b18f4/"
+    },
+    {
+        "BrandID": 51,
+        "BrandName": "Blends",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/107e0ca4-2bb3-49a1-8654-26221859172b/"
+    },
+    {
+        "BrandID": 52,
+        "BrandName": "GUESS Factory",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/2295ba50-d0e6-4b49-98d7-e6ae3ff1580e/"
+    },
+    {
+        "BrandID": 53,
+        "BrandName": "Orena",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 54,
+        "BrandName": "Ribal",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 55,
+        "BrandName": "NRD",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 56,
+        "BrandName": "Childrensalon Outlet",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/eadc5aaf-a104-4f2f-88e7-5778644caddc/"
+    },
+    {
+        "BrandID": 57,
+        "BrandName": "FragranceX",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/9e568373-186e-4927-a4ff-2b9898f4ed11/"
+    },
+    {
+        "BrandID": 58,
+        "BrandName": "Scotch & Soda",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/898c9aff-4683-4218-99e9-ebe5d8d2547f/"
+    },
+    {
+        "BrandID": 59,
+        "BrandName": "The Twan",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/4ff0cc5f-9302-40b8-8202-d3c44432e318/"
+    },
+    {
+        "BrandID": 60,
+        "BrandName": "Basharacare",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/604210ea-2266-4cb0-b52e-66554dd3b4cf/"
+    },
+    {
+        "BrandID": 61,
+        "BrandName": "Boutiqaat",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/96b5c7ac-f45c-4bc7-a5ff-0f72ed457607/"
+    },
+    {
+        "BrandID": 62,
+        "BrandName": "CoinMENA",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/bbe117ea-0f76-4ae8-89d5-e7347d9137ff/"
+    },
+    {
+        "BrandID": 63,
+        "BrandName": "Guess",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 64,
+        "BrandName": "Jazeera Airways",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/8e8ecdb6-3bb3-468c-90c1-c67ec4f8060c/"
+    },
+    {
+        "BrandID": 65,
+        "BrandName": "JustClean",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/fda603b1-b34b-4248-a815-b682b0606186/"
+    },
+    {
+        "BrandID": 66,
+        "BrandName": "Crocs",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/53955ef6-71d5-4977-b056-4ef68d07976c/"
+    },
+    {
+        "BrandID": 67,
+        "BrandName": "Harvey Nichols",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/b7769d9b-2d66-4ed1-ab86-f9c4585b51c5/"
+    },
+    {
+        "BrandID": 68,
+        "BrandName": "Nobaj",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/31334186-dbc5-4e20-af23-fa3598461f06/"
+    },
+    {
+        "BrandID": 69,
+        "BrandName": "Udacity",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/f5f8aad7-514a-4100-81da-041336e51f12/"
+    },
+    {
+        "BrandID": 70,
+        "BrandName": "Diesel",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/25c83bf8-f6db-4a20-90af-9286bf523296/"
+    },
+    {
+        "BrandID": 71,
+        "BrandName": "Linzi",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/75075b5c-6652-4c49-abf2-3a2bde9a05b0/"
+    },
+    {
+        "BrandID": 72,
+        "BrandName": "Luxury Escapes",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/62586044-ba30-4683-9287-028d7047a8eb/"
+    },
+    {
+        "BrandID": 73,
+        "BrandName": "El Coach",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/146a834c-df11-41ea-ac47-2a7d84d979d0/"
+    },
+    {
+        "BrandID": 74,
+        "BrandName": "Saksooka",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/6868a1b8-2e99-43e4-94a2-91525dda4c6f/"
+    },
+    {
+        "BrandID": 75,
+        "BrandName": "Asos",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/f4644c55-5ab4-4542-bcbd-dc7fa4429cb0/"
+    },
+    {
+        "BrandID": 76,
+        "BrandName": "Mahzooz",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/7d51e218-8fd0-452d-9bd4-0ccd459f4dc7/"
+    },
+    {
+        "BrandID": 77,
+        "BrandName": "Hibobi",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 78,
+        "BrandName": "Ferrari World",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/7a9ec781-e23d-4287-8dc8-63b26ef593c6/"
+    },
+    {
+        "BrandID": 79,
+        "BrandName": "Red Tag",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/590d42e4-8f84-4a93-b855-6e381f7b74b0/"
+    },
+    {
+        "BrandID": 80,
+        "BrandName": "Lenskart",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 81,
+        "BrandName": "Tanagra",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/8a3eca19-74ec-4fb6-8c19-86f05dd9ba52/"
+    },
+    {
+        "BrandID": 82,
+        "BrandName": "Under Armour",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/781ca16f-a265-459b-9dfd-7cc3af2225da/"
+    },
+    {
+        "BrandID": 83,
+        "BrandName": "Current Body",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/7530efa3-180a-414a-a243-44a4bca027d3/"
+    },
+    {
+        "BrandID": 84,
+        "BrandName": "Marks & Spencer",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/85bcc4f8-7c94-47ce-aea7-555ed9bde1f8/"
+    },
+    {
+        "BrandID": 85,
+        "BrandName": "Dropkick",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/9935b72a-861c-4292-ae41-e1bb1205529c/"
+    },
+    {
+        "BrandID": 86,
+        "BrandName": "Adidas",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/5bf24c57-aeb9-4a79-988e-ff83ccf5071e/"
+    },
+    {
+        "BrandID": 87,
+        "BrandName": "Radisson Hotels",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/857fe56d-c9b5-4f4e-85e5-70b12cc2f3ab/"
+    },
+    {
+        "BrandID": 88,
+        "BrandName": "Nana",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/e48aae16-1b78-43e4-9748-378d405fff53/"
+    },
+    {
+        "BrandID": 89,
+        "BrandName": "AjMall",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 90,
+        "BrandName": "Mikyajy",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/96e1dc72-ef57-44ad-8969-6fdbba2fb3be/"
+    },
+    {
+        "BrandID": 91,
+        "BrandName": "Bluehost",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/74aca2a0-ea95-4df6-9810-25ccf5102f93/"
+    },
+    {
+        "BrandID": 92,
+        "BrandName": "Fragrance",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/65353449-c613-4328-b159-4402337a5694/"
+    },
+    {
+        "BrandID": 93,
+        "BrandName": "Marchesa",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/e7cd6eb4-ec78-42bf-a3b0-9376cd40c271/"
+    },
+    {
+        "BrandID": 94,
+        "BrandName": "Agent Provocateur",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/b17b2ee5-af3e-49e8-8a31-baa4fcc53d2f/"
+    },
+    {
+        "BrandID": 95,
+        "BrandName": "New Egg",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 96,
+        "BrandName": "Wego",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/8c5fd942-ef6b-4c49-a51e-5eb2cda7dcbb/"
+    },
+    {
+        "BrandID": 97,
+        "BrandName": "R&B",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/4828892c-861e-485f-b2e1-bce544d34aeb/"
+    },
+    {
+        "BrandID": 98,
+        "BrandName": "Oudy",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/d6335496-ff3e-4d0f-bcd2-814199d0d2cc/"
+    },
+    {
+        "BrandID": 99,
+        "BrandName": "Reefi",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/630bcbc3-1253-4499-8fb8-bfc9359cb117/"
+    },
+    {
+        "BrandID": 100,
+        "BrandName": "iOud",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/5101f5a1-eaf3-4697-a8a0-07d5741fb478/"
+    },
+    {
+        "BrandID": 101,
+        "BrandName": "Tila",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/65819e40-60e2-40c8-83c8-c0ef930570d6/"
+    },
+    {
+        "BrandID": 102,
+        "BrandName": "COS",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/67bfeb07-1564-4ab9-9dc9-4103ca5789db/"
+    },
+    {
+        "BrandID": 103,
+        "BrandName": "LEGO",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/61376e80-ad0b-4035-b92b-b5faef678226/"
+    },
+    {
+        "BrandID": 104,
+        "BrandName": "Fiverr",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/60b5e79f-29da-4892-848d-f359f293cde8/"
+    },
+    {
+        "BrandID": 105,
+        "BrandName": "Matches Fashion",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/34169b2e-4e58-4ab8-8a87-3cc50ba07434/"
+    },
+    {
+        "BrandID": 106,
+        "BrandName": "Cettire",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/f65343f4-86f0-49da-8804-9e76ea4e6348/"
+    },
+    {
+        "BrandID": 107,
+        "BrandName": "Mango",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/d67a93d7-0d64-4043-b46e-59847c4e19fa/"
+    },
+    {
+        "BrandID": 108,
+        "BrandName": "JustLife",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/1de22466-4389-49b3-8e99-ec1e2ca58b68/"
+    },
+    {
+        "BrandID": 109,
+        "BrandName": "Trendyol",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/5e26088b-d17c-49fa-834f-82c4e302cfd9/"
+    },
+    {
+        "BrandID": 110,
+        "BrandName": "Hummel",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/c093ce56-195f-4719-b730-d16484cdfb5c/"
+    },
+    {
+        "BrandID": 111,
+        "BrandName": "Pjera",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/ffc4e283-2d5a-47f3-8f93-112fd5de0019/"
+    },
+    {
+        "BrandID": 112,
+        "BrandName": "Moda Operandi",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/94978a5a-14d0-4236-95a9-ce3c93d7060c/"
+    },
+    {
+        "BrandID": 113,
+        "BrandName": "Klook",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/06f4f51c-223c-407d-95da-7ef4108f4907/"
+    },
+    {
+        "BrandID": 114,
+        "BrandName": "FlashWin",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/29b53ca3-a99c-4792-96f3-d5021580fad6/"
+    },
+    {
+        "BrandID": 115,
+        "BrandName": "MyTheresa",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/85a92ea0-71ed-41ef-b1db-b0808392833b/"
+    },
+    {
+        "BrandID": 116,
+        "BrandName": "CheapOair",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/796e7ae5-585e-4aa1-9ea7-b58d667d2baa/"
+    },
+    {
+        "BrandID": 117,
+        "BrandName": "Expedia",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/c50325ca-9eb1-438d-99c5-58e3e1fb7d0f/"
+    },
+    {
+        "BrandID": 118,
+        "BrandName": "Daniel Hechter",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/1d6c58e3-0f60-49d3-8a08-f8cfaa31ab13/"
+    },
+    {
+        "BrandID": 119,
+        "BrandName": "Elemis",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/00ed4a94-165f-4d6b-892b-e7fb79889f32/"
+    },
+    {
+        "BrandID": 120,
+        "BrandName": "edX",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/cd348b99-c5bc-4591-8c8a-a060c011d9b3/"
+    },
+    {
+        "BrandID": 121,
+        "BrandName": "HostGator",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/0f6afd37-51df-42c7-a6f1-9f03e2c7117a/"
+    },
+    {
+        "BrandID": 122,
+        "BrandName": "Hotels Combined",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/d5dddbad-9459-4fe0-82e1-ddc8af1fbfb2/"
+    },
+    {
+        "BrandID": 123,
+        "BrandName": "Kiwi.com",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/24930251-e10b-48c0-b4ac-94e206d8d1ee/"
+    },
+    {
+        "BrandID": 124,
+        "BrandName": "Carter's",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 125,
+        "BrandName": "Saks Fifth Avenue",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/afabb67d-e4da-4487-8cf0-78bbc4a0ab22/"
+    },
+    {
+        "BrandID": 126,
+        "BrandName": "Yoox",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/419c0b02-5069-435e-8306-215a2829900f/"
+    },
+    {
+        "BrandID": 127,
+        "BrandName": "Saks Off Fifth",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/d9d3ea9b-bbc0-45f7-bcf9-54a607ff1f86/"
+    },
+    {
+        "BrandID": 128,
+        "BrandName": "Shutterstock",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/123e08dc-59db-4095-a485-5579ed9d9867/"
+    },
+    {
+        "BrandID": 129,
+        "BrandName": "Blueage",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/b3b9bb37-a204-4d54-8814-438ecbd8e8a3/"
+    },
+    {
+        "BrandID": 130,
+        "BrandName": "The Giving Movement",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 131,
+        "BrandName": "Kaspersky",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/f7e1d64a-80e0-428c-b15b-c344f74c5181/"
+    },
+    {
+        "BrandID": 132,
+        "BrandName": "Mr Porter",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/e26745c3-b9ae-4d49-b999-642a8bc6b736/"
+    },
+    {
+        "BrandID": 133,
+        "BrandName": "Yas Island",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/ef1264ab-975c-4098-89b1-ceb3004177eb/"
+    },
+    {
+        "BrandID": 134,
+        "BrandName": "Jomla",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/74dc715c-0f7f-4c92-8d62-a7046d68b7e7/"
+    },
+    {
+        "BrandID": 135,
+        "BrandName": "Gant",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 136,
+        "BrandName": "Mini in the Box",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/4d7df640-abd6-4fe4-9901-8f3742ffc9ce/"
+    },
+    {
+        "BrandID": 137,
+        "BrandName": "Newchic",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/07361053-bb14-4710-ba98-50165f2176f4/"
+    },
+    {
+        "BrandID": 138,
+        "BrandName": "Ssense",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/ac3cd4b6-df03-4579-aba0-cbb4808a525f/"
+    },
+    {
+        "BrandID": 139,
+        "BrandName": "Boots",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/030fe104-92a2-47d1-9692-f7fff55ba735/"
+    },
+    {
+        "BrandID": 140,
+        "BrandName": "Level Shoes",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/0cd5520e-a5ce-4d64-942b-c247de2ba557/"
+    },
+    {
+        "BrandID": 141,
+        "BrandName": "1Zillion",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/a1b87015-3a7f-4160-a90b-d39a6b65bca7/"
+    },
+    {
+        "BrandID": 142,
+        "BrandName": "Faces",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/1c0a9431-296b-4ef7-83e6-1158b5f7c7a7/"
+    },
+    {
+        "BrandID": 143,
+        "BrandName": "Selfridges",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/2fd40d51-57ca-41b3-910d-d77799d4ce38/"
+    },
+    {
+        "BrandID": 144,
+        "BrandName": "Balsam",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/2885c270-2672-4419-a2c6-0ef1a9811772/"
+    },
+    {
+        "BrandID": 145,
+        "BrandName": "Aeen Shop",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/949f36b8-7fac-4f9a-a818-40bfc61e319f/"
+    },
+    {
+        "BrandID": 146,
+        "BrandName": "LikeCard",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/95183b9d-104f-4b6b-9c2f-e8773ea87c46/"
+    },
+    {
+        "BrandID": 147,
+        "BrandName": "Starzly App",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/bb2159db-c206-48c3-a8ff-8232e82b73e7/"
+    },
+    {
+        "BrandID": 148,
+        "BrandName": "Cardial",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/ef87420c-0d02-43ac-9673-43d22ffcc777/"
+    },
+    {
+        "BrandID": 149,
+        "BrandName": "Feelunique",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/ae33ff06-dd63-426e-a30b-c269c3be80be/"
+    },
+    {
+        "BrandID": 150,
+        "BrandName": "Mac Cosmetics",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/ed842fc5-e9a5-406b-85a5-1ee1f321d6a0/"
+    },
+    {
+        "BrandID": 151,
+        "BrandName": "Shein",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/19d9fa71-9cee-4296-865f-5cca02db41f1/"
+    },
+    {
+        "BrandID": 152,
+        "BrandName": "Atlantis the Palm",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/484b1e10-9f33-4d32-acf8-17ffb0acf2a7/"
+    },
+    {
+        "BrandID": 153,
+        "BrandName": "Dnata Travel",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/75c6a1cb-6b3b-45f1-a6a3-16bcb6dfc27d/"
+    },
+    {
+        "BrandID": 154,
+        "BrandName": "MEstores",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/77e5bcde-166c-4f1e-adf0-ca7523ff0fc5/"
+    },
+    {
+        "BrandID": 155,
+        "BrandName": "Hotels.com",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/a9991f58-c3a5-4d41-a816-5808cab5dc9e/"
+    },
+    {
+        "BrandID": 156,
+        "BrandName": "HNAK",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 157,
+        "BrandName": "Redsea",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/02dd6c4a-c1eb-4edf-8f44-0e1d54fedb22/"
+    },
+    {
+        "BrandID": 158,
+        "BrandName": "Rosegal",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/3a4baffe-ed0b-4a08-970e-f7a4829fe43f/"
+    },
+    {
+        "BrandID": 159,
+        "BrandName": "Squat Wolf",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/08c6441a-e8b1-4401-ba40-3119badc1e2e/"
+    },
+    {
+        "BrandID": 160,
+        "BrandName": "Beauti.sa",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/42a6c105-567d-48e2-b7e3-e09c25b0fe43/"
+    },
+    {
+        "BrandID": 161,
+        "BrandName": "Speero",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 162,
+        "BrandName": "Zohoor Alreef",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/0e1ce4d0-7aef-43e0-aa57-91f5269ec154/"
+    },
+    {
+        "BrandID": 163,
+        "BrandName": "Black Box",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 164,
+        "BrandName": "800 Flower",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/34dd77ad-4dad-45d3-86ed-b520619276b5/"
+    },
+    {
+        "BrandID": 165,
+        "BrandName": "Cleartrip",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/a3cf6a6e-ae2b-48e1-8ed4-c9868691735b/"
+    },
+    {
+        "BrandID": 166,
+        "BrandName": "Victoria Secret",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/fa854104-455b-4130-b891-698f05254517/"
+    },
+    {
+        "BrandID": 167,
+        "BrandName": "Abdul Samad Al Qurashi",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/4b4cb896-a9d8-4098-b2f4-4b239ab27338/"
+    },
+    {
+        "BrandID": 168,
+        "BrandName": "New Balance",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/2f5e84ea-1a3a-433e-b77f-4db8d03c2303/"
+    },
+    {
+        "BrandID": 169,
+        "BrandName": "Fly Dubai",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/9343f6d8-9893-4835-9df8-c070fe349fc8/"
+    },
+    {
+        "BrandID": 170,
+        "BrandName": "Alsamari Oud",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/3fd3a3f9-1022-4434-86f8-cdc964feafd7/"
+    },
+    {
+        "BrandID": 171,
+        "BrandName": "Milano",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/b5a88a92-d4d7-4332-be24-5e524be93d65/"
+    },
+    {
+        "BrandID": 172,
+        "BrandName": "Metro Brazil",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/75f8b24a-f2ba-4e1f-a485-de8fcfb5e4c9/"
+    },
+    {
+        "BrandID": 173,
+        "BrandName": "Oud Milano",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/bf15b244-2d32-47d4-8ff2-2d05b78aa3e1/"
+    },
+    {
+        "BrandID": 174,
+        "BrandName": "Etsy",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/d73a81c1-3bfd-4461-a3c3-973a64912cc1/"
+    },
+    {
+        "BrandID": 175,
+        "BrandName": "Romwe",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/cf37afb8-a229-4ddf-b3d5-ebab7d7bea57/"
+    },
+    {
+        "BrandID": 176,
+        "BrandName": "Hostinger",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/e639c496-3f0c-44cb-8f5b-58b7da3a8767/"
+    },
+    {
+        "BrandID": 177,
+        "BrandName": "Karen Wazen",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 178,
+        "BrandName": "DHgate",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/383b7b3c-d0e1-4567-aba7-1baef0f087c4/"
+    },
+    {
+        "BrandID": 179,
+        "BrandName": "The Luxury Closet",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/a5503c94-cf81-4330-9141-159c3b3f226b/"
+    },
+    {
+        "BrandID": 180,
+        "BrandName": "My Protein",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/7bc0c9e0-cffd-4cf5-984c-d89c0176c15c/"
+    },
+    {
+        "BrandID": 181,
+        "BrandName": "Foreo",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/d92554b3-f500-427f-b9a2-9b4af3e2b2b0/"
+    },
+    {
+        "BrandID": 182,
+        "BrandName": "Vipbrands",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/c406bb52-327b-4858-a5e3-5615493bcf5b/"
+    },
+    {
+        "BrandID": 183,
+        "BrandName": "Mumzworld",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/891406cc-45b1-4aa8-befb-76672d3c91d2/"
+    },
+    {
+        "BrandID": 184,
+        "BrandName": "Trip.com",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/aa949937-28f6-40d3-920e-7a6cfa96365e/"
+    },
+    {
+        "BrandID": 185,
+        "BrandName": "Tryano",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/ef919c18-abae-45ce-ba72-6e4bf9f5604f/"
+    },
+    {
+        "BrandID": 186,
+        "BrandName": "Shop & Ship",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/0d43fa01-8ca5-4d56-a98a-4323b2897183/"
+    },
+    {
+        "BrandID": 187,
+        "BrandName": "Alsaif Gallery",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/90789e75-ad0c-472c-9d62-5e833ec3489f/"
+    },
+    {
+        "BrandID": 188,
+        "BrandName": "Banggood",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/aea10c0d-9d77-4b51-9da2-ce3b31f75af0/"
+    },
+    {
+        "BrandID": 189,
+        "BrandName": "Fordeal",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/4ec3be96-cce7-4cdf-bc0e-3d8ef50599b3/"
+    },
+    {
+        "BrandID": 190,
+        "BrandName": "Lifestyle",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/671200ed-5ef5-4326-8fea-a40f6c1fd092/"
+    },
+    {
+        "BrandID": 191,
+        "BrandName": "IZIL",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/1abc0862-d680-4e90-85b9-b34be8933a4d/"
+    },
+    {
+        "BrandID": 192,
+        "BrandName": "Lebs.com",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 193,
+        "BrandName": "Daniel Wellington",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/7336676b-0297-48d3-a62c-0760c0bcf51d/"
+    },
+    {
+        "BrandID": 194,
+        "BrandName": "Samma3a",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/d68e29c5-22cd-46ed-b396-08f005ea3415/"
+    },
+    {
+        "BrandID": 195,
+        "BrandName": "AlHabib Bedding",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/6daf5bc6-871d-4600-acb1-17c345c47397/"
+    },
+    {
+        "BrandID": 196,
+        "BrandName": "Junior Couture",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/7dc60880-b5f6-432a-99d2-aea768678a87/"
+    },
+    {
+        "BrandID": 197,
+        "BrandName": "Talabat",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/1bc3e10f-d5d3-4967-9970-f822f63ba6fe/"
+    },
+    {
+        "BrandID": 198,
+        "BrandName": "The Modist",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 199,
+        "BrandName": "Centrepoint",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/2f7e19e7-4eb5-4116-9cb6-4e06b6abcc5e/"
+    },
+    {
+        "BrandID": 200,
+        "BrandName": "Novakid",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/4d9a8896-7396-4418-8eeb-d1af7b80828a/"
+    },
+    {
+        "BrandID": 201,
+        "BrandName": "Daily Mealz",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/3e6c045b-3247-4ef2-b573-b7d48ee3e746/"
+    },
+    {
+        "BrandID": 202,
+        "BrandName": "Ajmal Perfume",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/80f67342-fcc4-4eda-afa1-f038d704f90e/"
+    },
+    {
+        "BrandID": 203,
+        "BrandName": "Nike",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/3b4d3dfa-14df-4b69-9f46-6cc29ba2c048/"
+    },
+    {
+        "BrandID": 204,
+        "BrandName": "Dresslily",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/a77bd51b-d643-403e-b0f4-4dc7477c00f9/"
+    },
+    {
+        "BrandID": 205,
+        "BrandName": "Flyin",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/c5ea2958-29b5-4195-a52a-72b98c12afd1/"
+    },
+    {
+        "BrandID": 206,
+        "BrandName": "Almosafer",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/dfc0edaa-9a38-461b-80e4-d22b54089680/"
+    },
+    {
+        "BrandID": 207,
+        "BrandName": "Golden Scent",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/f1ad1613-6521-4272-afc5-75690226858e/"
+    },
+    {
+        "BrandID": 208,
+        "BrandName": "Polo Ralph Lauren",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/8469092c-8dc9-411d-b564-9ad71f10e847/"
+    },
+    {
+        "BrandID": 209,
+        "BrandName": "18:00",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 210,
+        "BrandName": "Tatayab",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/8a9d109b-6fde-4607-937d-52175c0ab56f/"
+    },
+    {
+        "BrandID": 211,
+        "BrandName": "Sidalih",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 212,
+        "BrandName": "Eoutlet",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/26f8eaa9-e99e-4f2a-93f1-12cd49955a16/"
+    },
+    {
+        "BrandID": 213,
+        "BrandName": "Skyscanner",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/1e154e6f-f3a5-4730-9bdb-a99a76048cb0/"
+    },
+    {
+        "BrandID": 214,
+        "BrandName": "Jarir Bookstore",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/34cdd9a8-9d76-4ed2-87b5-0fbf6ad1dd77/"
+    },
+    {
+        "BrandID": 215,
+        "BrandName": "Ebay",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/51c16a05-2509-4b4c-aa78-8f502a2acb53/"
+    },
+    {
+        "BrandID": 216,
+        "BrandName": "Dokkan Afkar",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/0535d85c-d4b0-45f9-9f42-5ba91cfa6d27/"
+    },
+    {
+        "BrandID": 217,
+        "BrandName": "Brands For Less",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/bebb7f31-48e2-45f5-8a72-214e51481b0e/"
+    },
+    {
+        "BrandID": 218,
+        "BrandName": "Udemy",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/80755efd-bb1a-4334-93c1-1050cf00535a/"
+    },
+    {
+        "BrandID": 219,
+        "BrandName": "Namecheap",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/10613e50-4546-4d7c-98d4-9e01a4e353a9/"
+    },
+    {
+        "BrandID": 220,
+        "BrandName": "Sun and Sands Sports",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/ca009314-6787-4d13-b530-7e90f708df18/"
+    },
+    {
+        "BrandID": 221,
+        "BrandName": "Styli",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/0fd485bb-59c1-4b68-a06f-0b94a1561bb7/"
+    },
+    {
+        "BrandID": 222,
+        "BrandName": "L'Occitane",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 223,
+        "BrandName": "Kiehl's",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 224,
+        "BrandName": "Xcite",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/00ffaa71-4b56-4a3b-a37c-3733a1c4a71a/"
+    },
+    {
+        "BrandID": 225,
+        "BrandName": "Desert Cart",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/feedb069-5de7-4e0d-984e-d4ad789c8ba0/"
+    },
+    {
+        "BrandID": 226,
+        "BrandName": "Hungerstation",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/b256cc0e-2cd2-4065-85aa-90690286dc7a/"
+    },
+    {
+        "BrandID": 227,
+        "BrandName": "Uber Eats",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/bdfd9cab-e013-4118-9d2c-a571afc12fc1/"
+    },
+    {
+        "BrandID": 228,
+        "BrandName": "Ubuy",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/fa209f4b-153f-4793-81b9-3cc81858e610/"
+    },
+    {
+        "BrandID": 229,
+        "BrandName": "Alibaba",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/63a91605-1585-448d-ad83-d4ff8dd8fdea/"
+    },
+    {
+        "BrandID": 230,
+        "BrandName": "Macy's",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 231,
+        "BrandName": "NordVPN",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/f39c5102-99e1-44ec-9603-bb20174910cf/"
+    },
+    {
+        "BrandID": 232,
+        "BrandName": "Menakart",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/d34d475e-756b-49fd-8c4c-4f8626de702c/"
+    },
+    {
+        "BrandID": 233,
+        "BrandName": "Gearbest",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/a3b11640-03ce-4191-88f6-7372553d6c1e/"
+    },
+    {
+        "BrandID": 234,
+        "BrandName": "Zaful",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/f101a2fe-9efa-4e73-b500-8a6f739a40ce/"
+    },
+    {
+        "BrandID": 235,
+        "BrandName": "The Entertainer",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/a1b3b358-a54b-4cc5-a59b-987d991a5fda/"
+    },
+    {
+        "BrandID": 236,
+        "BrandName": "Rehlat",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/5dbdada1-d65f-4422-b1d6-e765d7de55dc/"
+    },
+    {
+        "BrandID": 237,
+        "BrandName": "Footlocker",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/b502bdaa-a7fc-4b70-8832-b807bdb890a6/"
+    },
+    {
+        "BrandID": 238,
+        "BrandName": "Joi Gifts",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/ddd8ba12-6733-4eec-9f49-f40a078aa139/"
+    },
+    {
+        "BrandID": 239,
+        "BrandName": "Cobone",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/81c2e199-7e27-4f6e-bef8-53f602765238/"
+    },
+    {
+        "BrandID": 240,
+        "BrandName": "Tory Burch",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/6edb57fb-36fd-4cbb-90a9-b0ca2159e784/"
+    },
+    {
+        "BrandID": 241,
+        "BrandName": "Nice One",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/fac22c6c-7e3e-4081-a6d3-a41db1c424b6/"
+    },
+    {
+        "BrandID": 242,
+        "BrandName": "Luisa Via Roma",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/84be4945-a7a7-4b6a-8e42-360fe737c974/"
+    },
+    {
+        "BrandID": 243,
+        "BrandName": "Bashasaray",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/346fddeb-9561-4e84-b5d3-929452d4f81c/"
+    },
+    {
+        "BrandID": 244,
+        "BrandName": "Tania Water",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/cfdbf461-58f2-48e5-b3a5-bc5f1cb6ba11/"
+    },
+    {
+        "BrandID": 245,
+        "BrandName": "Lookfantastic",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/35c2d7ba-39fa-417c-8da5-f22b46865809/"
+    },
+    {
+        "BrandID": 246,
+        "BrandName": "Kemitt",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/3cca70d8-b91d-4b8c-8460-9b6c19259878/"
+    },
+    {
+        "BrandID": 247,
+        "BrandName": "Strawberrynet",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/01002b93-7434-4060-87fe-a4c3c1235799/"
+    },
+    {
+        "BrandID": 248,
+        "BrandName": "Muji",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/0d9826d7-97c9-4b04-8087-daaa9e64daf7/"
+    },
+    {
+        "BrandID": 249,
+        "BrandName": "Fresqa",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/43028b2d-3bb4-4b18-b2e6-78570d80be10/"
+    },
+    {
+        "BrandID": 250,
+        "BrandName": "Rayna Tours",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/3c617bab-5f00-4890-8592-c9f8c26bda63/"
+    },
+    {
+        "BrandID": 251,
+        "BrandName": "Jo Malone",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/a7a01097-bf9e-412f-9c89-ab87335eca75/"
+    },
+    {
+        "BrandID": 252,
+        "BrandName": "Sephora",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/befc8606-8644-4fc2-abd7-42b68a817b4d/"
+    },
+    {
+        "BrandID": 253,
+        "BrandName": "YSL Beauty",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/7988f33c-96b4-42b3-8485-63c05c7258a0/"
+    },
+    {
+        "BrandID": 254,
+        "BrandName": "Home Centre",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/b0929f4f-28c7-422e-bd2f-8959d7d72bd0/"
+    },
+    {
+        "BrandID": 255,
+        "BrandName": "Splash",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/f5b12882-0192-4355-8221-e06a63c07b46/"
+    },
+    {
+        "BrandID": 256,
+        "BrandName": "Michael Kors",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/d2ea5865-8d10-49db-98a0-4d9a9b49e641/"
+    },
+    {
+        "BrandID": 257,
+        "BrandName": "Net-A-Porter",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/57d6efd6-a1fc-48c6-b8ae-7ae6e397e474/"
+    },
+    {
+        "BrandID": 258,
+        "BrandName": "Nordstrom",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/35a1a8a5-0d28-40fb-b6df-06f20c802198/"
+    },
+    {
+        "BrandID": 259,
+        "BrandName": "Fashion.sa",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/4419ca21-06ca-44ad-a4d9-cf69c0bf283e/"
+    },
+    {
+        "BrandID": 260,
+        "BrandName": "Babysouk",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/f047a08a-dc68-46ca-a832-6ded04e82401/"
+    },
+    {
+        "BrandID": 261,
+        "BrandName": "SaraMart",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/abe2a9d9-af35-43dd-ba8b-d473aae0500a/"
+    },
+    {
+        "BrandID": 262,
+        "BrandName": "Light in the box",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/deddd5f4-0f56-46dc-8e26-72f5c6a9bf3c/"
+    },
+    {
+        "BrandID": 263,
+        "BrandName": "Shahid Plus",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/da22574c-f050-43e2-8f98-211945f70fd0/"
+    },
+    {
+        "BrandID": 264,
+        "BrandName": "Ferns and Petals",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/d7351333-9e53-48e6-86b6-eb6ee7bed92f/"
+    },
+    {
+        "BrandID": 265,
+        "BrandName": "New Look",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/0526fab9-bda0-406a-9278-f3428f62439f/"
+    },
+    {
+        "BrandID": 266,
+        "BrandName": "Soukare",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/51fac9fe-3048-4aa9-9518-89128616d124/"
+    },
+    {
+        "BrandID": 267,
+        "BrandName": "Dealy",
+        "BrandNameAR": null,
+        "Logo": "https://ucarecdn.com/6985546a-4ff3-41a3-aa4f-2fe8accdec56/"
+    },
+    {
+        "BrandID": 268,
+        "BrandName": "GoDaddy",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 269,
+        "BrandName": "Qatar Airways",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 270,
+        "BrandName": "Riva Fashion",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 271,
+        "BrandName": "Neiman Marcus",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 272,
+        "BrandName": "Magic Planet",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 273,
+        "BrandName": "Agoda",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 274,
+        "BrandName": "Shopbop",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 275,
+        "BrandName": "Ted Baker London",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 276,
+        "BrandName": "Balleh",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 277,
+        "BrandName": "Qasr Al Awani",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 278,
+        "BrandName": "eRomman",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 279,
+        "BrandName": "G2A",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 280,
+        "BrandName": "Karaz Linen",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 281,
+        "BrandName": "Syarah",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 282,
+        "BrandName": "Etihad Airways",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 283,
+        "BrandName": "Emirates Airlines",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 284,
+        "BrandName": "Faylasof (Books)",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 285,
+        "BrandName": "Amazon Egypt (Souq)",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 286,
+        "BrandName": "Jumia",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 287,
+        "BrandName": "Carrefour",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 288,
+        "BrandName": "Waffarha",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 289,
+        "BrandName": "Ariika",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 290,
+        "BrandName": "Raneen",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 291,
+        "BrandName": "Footcourt",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 292,
+        "BrandName": "Opio Shop",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 293,
+        "BrandName": "Olife Mena",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 294,
+        "BrandName": "Zumra Food",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 295,
+        "BrandName": "Chic Homz",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 296,
+        "BrandName": "Decathlon",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 297,
+        "BrandName": "Carina",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 298,
+        "BrandName": "Mitcha",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 299,
+        "BrandName": "Mrsool",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 300,
+        "BrandName": "DeFacto",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 301,
+        "BrandName": "2B",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 302,
+        "BrandName": "Khotwh",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 303,
+        "BrandName": "Yodawy",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 304,
+        "BrandName": "LC Waikiki",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 305,
+        "BrandName": "B.TECH",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 306,
+        "BrandName": "The Fashion kingdom",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 307,
+        "BrandName": "L'azurde Miss L",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 308,
+        "BrandName": "Wish",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 309,
+        "BrandName": "Almatar",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 310,
+        "BrandName": "Brantu",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 311,
+        "BrandName": "Papona",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 312,
+        "BrandName": "RoseMary Paris",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 313,
+        "BrandName": "Anotah",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 314,
+        "BrandName": "Odiggo",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 315,
+        "BrandName": "Nashri",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 316,
+        "BrandName": "Air Arabia",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 317,
+        "BrandName": "English Ninja",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 318,
+        "BrandName": "Amazon UAE",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 319,
+        "BrandName": "Noon NowNow",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 320,
+        "BrandName": "Jumbo Electronics",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 321,
+        "BrandName": "Clarins",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 322,
+        "BrandName": "Noon Food",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 323,
+        "BrandName": "Nazih",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 324,
+        "BrandName": "Homes R Us",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 325,
+        "BrandName": "Policy Bazaar",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 326,
+        "BrandName": "Toys R Us",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 327,
+        "BrandName": "BinSina",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 328,
+        "BrandName": "Clarks",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 329,
+        "BrandName": "Trip XOXO",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 330,
+        "BrandName": "Make My Trip",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 331,
+        "BrandName": "Aldo",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 332,
+        "BrandName": "Samawa",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 333,
+        "BrandName": "Kcal Life",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 334,
+        "BrandName": "Dubai Store",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 335,
+        "BrandName": "Books Venue",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 336,
+        "BrandName": "LifePharmacy",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 337,
+        "BrandName": "FarmBox",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 338,
+        "BrandName": "Eros Digital Home",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 339,
+        "BrandName": "CARS24",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 340,
+        "BrandName": "Arabian Adventures",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 341,
+        "BrandName": "YallaMarket",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 342,
+        "BrandName": "Ninjoo",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 343,
+        "BrandName": "Ourshopee",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 344,
+        "BrandName": "Early Bird",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 345,
+        "BrandName": "Warner Brothers Abu Dhabi",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 346,
+        "BrandName": "Lensfit",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 347,
+        "BrandName": "Sharaf DG",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 348,
+        "BrandName": "Shop Kitopi",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 349,
+        "BrandName": "Fresh to Home",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 350,
+        "BrandName": "Deliveroo",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 351,
+        "BrandName": "Ski Dubai",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 352,
+        "BrandName": "Rivolishop",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 353,
+        "BrandName": "Zomato",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 354,
+        "BrandName": "BabyStore",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 355,
+        "BrandName": "Virgin Megastore",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 356,
+        "BrandName": "Eat Easy",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 357,
+        "BrandName": "Groupon",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 358,
+        "BrandName": "Quality Food",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 359,
+        "BrandName": "Choozo",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 360,
+        "BrandName": "Dwell",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 361,
+        "BrandName": "Virgin Mobile",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 362,
+        "BrandName": "Babyshop",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 363,
+        "BrandName": "Azadea",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 364,
+        "BrandName": "Kiabi",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 365,
+        "BrandName": "OSN",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 366,
+        "BrandName": "Ace",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 367,
+        "BrandName": "Dragon Mart",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 368,
+        "BrandName": "Yas Waterworld",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 369,
+        "BrandName": "Debenhams",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 370,
+        "BrandName": "Tamanna",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 371,
+        "BrandName": "The Beauty Edits",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 372,
+        "BrandName": "For Her",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 373,
+        "BrandName": "Aigner",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 374,
+        "BrandName": "Zrafh",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 375,
+        "BrandName": "Aynma",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 376,
+        "BrandName": "Johrh",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 377,
+        "BrandName": "PrettyLittleThing",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 378,
+        "BrandName": "Beyyak",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 379,
+        "BrandName": "724USA",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 380,
+        "BrandName": "Rituals",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 381,
+        "BrandName": "Danube Home",
+        "BrandNameAR": null,
+        "Logo": null
+    },
+    {
+        "BrandID": 382,
+        "BrandName": "Next",
+        "BrandNameAR": null,
+        "Logo": null
+    }
+]
