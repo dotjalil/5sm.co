@@ -57,7 +57,7 @@ export default function Store() {
     }, [router.isReady]);
 
     useEffect(() => {
-        setCurrentUrl(window.location.href);
+        setCurrentUrl(globalThis?.window?.location.href);
     }, [])
 
     function copyToClipboard(e) {
@@ -80,7 +80,7 @@ export default function Store() {
     }
 
     function handleCopyPageUrl() {
-        navigator.clipboard.writeText(window.location.href);
+        navigator.clipboard.writeText(globalThis?.window?.location.href);
     }
 
     function countryClass(countryId) {
@@ -111,7 +111,7 @@ export default function Store() {
     }
 
     function socialShareLinks() {
-        const url = window.location.href;
+        const url = globalThis?.window?.location.href;
         const social = {};
         social.facebook = "https://www.facebook.com/share.php?u=" + encodeURIComponent(url);
         social.whatsapp = "https://api.whatsapp.com/send?text=" + encodeURIComponent(url);
