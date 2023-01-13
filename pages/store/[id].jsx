@@ -193,7 +193,7 @@ export default function Store() {
                                                 <td className="hidden md:table-cell px-6 py-4">
                                                 <span className="inline-flex items-center gap-1 rounded-full bg-green-50 px-2 py-1 text-xs font-semibold text-green-600">
                                                     <span className="h-1.5 w-1.5 rounded-full bg-green-600" />
-                                                    {getCouponSource(store.SiteID)}
+                                                    {store.SiteID && getCouponSource(store.SiteID)}
                                                 </span>
                                                 </td>
                                                 <td className="hidden md:table-cell px-6 py-4 text-xs">
@@ -232,12 +232,12 @@ export default function Store() {
                 )
             }
             {/* Debugging */}
-            <pre>
+            {/* <pre>
                 <code>{storeData && JSON.stringify(storeData, null, 2)}</code>
             </pre>
             <pre>
                 <code>{sourceSites && JSON.stringify(sourceSites, null, 2)}</code>
-            </pre>
+            </pre> */}
             {/* Modal */}
             { showModal 
                 && 

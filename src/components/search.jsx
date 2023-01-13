@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Fuse from 'fuse.js'
-import keywords from '../../data/keywords.json'
+import keywords from '../../tmp/keywords.json'
 import Link from 'next/link'
 import Image from 'next/image'
 
