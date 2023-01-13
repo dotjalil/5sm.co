@@ -21,7 +21,7 @@ export default function Store() {
         if(!router.isReady) return;
 
         async function getStoreData() {
-            const apiUrlEndpoint = 'http://localhost:3000/api/getStore';
+            const apiUrlEndpoint = '/api/getStore';
             const postData = {
                 method: "Post",
                 headers: { "Content-Type": "application/json" },
@@ -42,7 +42,7 @@ export default function Store() {
         if(!router.isReady) return;
 
         async function getSourceSites() {
-            const apiUrlEndpoint = 'http://localhost:3000/api/getSourceSites';
+            const apiUrlEndpoint = '/api/getSourceSites';
             const postData = {
                 method: "Post",
                 headers: { "Content-Type": "application/json" },
