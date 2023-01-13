@@ -43,6 +43,8 @@ export default function Store() {
 
         async function getSourceSites() {
             const apiUrlEndpoint = '/api/getSourceSites';
+            console.log('api call')
+            console.log('api call')
             const postData = {
                 method: "Post",
                 headers: { "Content-Type": "application/json" },
