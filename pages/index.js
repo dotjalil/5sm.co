@@ -20,7 +20,7 @@ function Home({data}) {
   // Get stores data
   useEffect(() => {
     async function getStoresList() {
-      const apiUrlEndpoint = 'http://localhost:3000/api/getStoresList';
+      const apiUrlEndpoint = '/api/getStoresList';
       const postData = {
         method: "Post",
         headers: { "Content-Type": "application/json" },
@@ -41,7 +41,7 @@ function Home({data}) {
   // Get coupon counts list
   useEffect(() => {
     async function getCouponCountList() {
-      const apiUrlEndpoint = 'http://localhost:3000/api/getCouponsCount';
+      const apiUrlEndpoint = '/api/getCouponsCount';
       const postData = {
         method: "Post",
         headers: { "Content-Type": "application/json" },
@@ -62,7 +62,7 @@ function Home({data}) {
   // Get search keywords
   useEffect(() => {
     async function getSearchKeywords() {
-      const apiUrlEndpoint = 'http://localhost:3000/api/getKeywords';
+      const apiUrlEndpoint = '/api/getKeywords';
       const response = await fetch(apiUrlEndpoint);
       const res = await response.json();
     }
