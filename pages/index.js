@@ -42,6 +42,7 @@ function Home({data}) {
   useEffect(() => {
     async function getCouponCountList() {
       const apiUrlEndpoint = '/api/getCouponsCount';
+      console.log('apiurl', apiUrlEndpoint)
       const postData = {
         method: "Post",
         headers: { "Content-Type": "application/json" },
